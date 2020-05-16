@@ -68,9 +68,9 @@ public:
 
 int main()
 {
-	RenderWindow window(sf::VideoMode(640, 480), "Air Hockey");
+	RenderWindow window(sf::VideoMode(880, 460), "Air Hockey");
 
-	Player player("hero.png", 250, 250, 70.0, 70.0);
+	Player player("hero.png", 250, 250, 129.0, 129.0);
 
 	Clock clock;
 

@@ -1,0 +1,15 @@
+﻿  main.cpp
+F:\Проекты VS\SomeProjects\AeroHockey C++\AeroHockey\AeroHockey\main.cpp(31,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\Проекты VS\SomeProjects\AeroHockey C++\AeroHockey\AeroHockey\main.cpp(31,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\Проекты VS\SomeProjects\AeroHockey C++\AeroHockey\AeroHockey\main.cpp(65,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Проекты VS\SomeProjects\AeroHockey C++\AeroHockey\AeroHockey\main.cpp(65,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Проекты VS\SomeProjects\AeroHockey C++\AeroHockey\AeroHockey\main.cpp(79,15): warning C4244: 'initializing': conversion from 'sf::Int64' to 'double', possible loss of data
+  AeroHockey.vcxproj -> F:\Проекты VS\SomeProjects\AeroHockey C++\AeroHockey\x64\Debug\AeroHockey.exe

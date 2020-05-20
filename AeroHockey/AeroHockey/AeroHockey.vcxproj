@@ -144,7 +144,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GameMap.cpp" />
+    <ClCompile Include="GameText.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Player.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameMap.h" />
+    <ClInclude Include="GameText.h" />
+    <ClInclude Include="Player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
